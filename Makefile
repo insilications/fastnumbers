@@ -1,5 +1,5 @@
 PKG_NAME := fastnumbers
-URL = https://files.pythonhosted.org/packages/15/3f/80483ecd647f2f83ef355f669eacf712aa437ec1196150d2e8b1e87e1c95/fastnumbers-2.2.1.tar.gz
+URL = https://files.pythonhosted.org/packages/75/98/cfaf907c592f55f3830d7a2a68048800f1320f40fed5ba65e0756432ff22/fastnumbers-3.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
