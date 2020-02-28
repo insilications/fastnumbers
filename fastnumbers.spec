@@ -4,7 +4,7 @@
 #
 Name     : fastnumbers
 Version  : 3.0.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/75/98/cfaf907c592f55f3830d7a2a68048800f1320f40fed5ba65e0756432ff22/fastnumbers-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/75/98/cfaf907c592f55f3830d7a2a68048800f1320f40fed5ba65e0756432ff22/fastnumbers-3.0.0.tar.gz
 Summary  : Super-fast and clean conversions to numbers.
@@ -77,6 +77,7 @@ python components for the fastnumbers package.
 Summary: python3 components for the fastnumbers package.
 Group: Default
 Requires: python3-core
+Provides: pypi(fastnumbers)
 
 %description python3
 python3 components for the fastnumbers package.
@@ -91,7 +92,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1578414575
+export SOURCE_DATE_EPOCH=1582922821
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
