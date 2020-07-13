@@ -4,7 +4,7 @@
 #
 Name     : fastnumbers
 Version  : 3.0.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/75/98/cfaf907c592f55f3830d7a2a68048800f1320f40fed5ba65e0756432ff22/fastnumbers-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/75/98/cfaf907c592f55f3830d7a2a68048800f1320f40fed5ba65e0756432ff22/fastnumbers-3.0.0.tar.gz
 Summary  : Super-fast and clean conversions to numbers.
